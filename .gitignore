@@ -1,3 +1,6 @@
+#private files
+token.json
+
 # Logs
 logs
 *.log
