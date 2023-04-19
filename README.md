@@ -29,5 +29,6 @@ for a node version manager ```use npm n``` or ```npm nvm``` for windows
 * Add a token file to the root directory, this should be ```.json``` file named ```token.json``` and the contents should follow this format :
 ```{ token : "your-key-here "}```
 * this is not saved to the repo for safety reasons.
-
+* to run the file use ```node index.js```
+* the application will print to console if connection is a success. 
 
